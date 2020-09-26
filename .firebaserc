@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-app-fa1da": {
+      "hosting": {
+        "whatsapp-clone": [
+          "chat-app-fa1da"
+        ]
+      }
+    }
+  }
+}
